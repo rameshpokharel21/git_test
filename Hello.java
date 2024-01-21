@@ -1,6 +1,7 @@
 /*hello how are you?
 I am fine. Thank you!
 mixing for-each loop and for loop in 2d array
+ragged array
 */
 public class Hello{
     public static void main(String[] args) {
